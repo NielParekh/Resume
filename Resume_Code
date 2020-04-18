@@ -1,0 +1,151 @@
+%Resume of Niel Parekh
+
+\documentclass{resume} % Use the custom resume.cls style
+
+%To use hyperlinks
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=blue,
+}
+
+%For More colours
+\usepackage[dvipsnames]{xcolor}
+\usepackage{xspace}
+
+\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} % Document margins
+\newcommand\nth{\textsuperscript{th}\xspace}
+\newcommand\nd{\textsuperscript{nd}\xspace}
+\newcommand\rd{\textsuperscript{rd}\xspace}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Niel Parekh} % Your name
+\address{(+91)9789053812 \\ niel.parekh24@gmail.com } % Your phone number and email
+
+
+\begin{document}
+\begin{center}
+
+    
+\end{center}
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+
+{\bf SSN College of Engineering, Chennai} \hfill {\em August 2018 - Present} 
+\\ Bachelor of Engineering, Computer Science\hfill \textcolor{blue}{\em Current GPA: 9.00(Upto Semester III)}\\\\
+{\bf Padma Seshadri Bala Bhavan Senior Secondary School, Chennai} \hfill {\em 2017 - 2018}\\
+12\nth Standard \hfill \textcolor{blue}{\em 95.0\%}\\\\
+{\bf Padma Seshadri Bala Bhavan Senior Secondary School, Chennai} \hfill {\em 2015 - 2016}\\
+10\nth Standard \hfill \textcolor{blue}{\em 10.0 CGPA }\\
+
+\end{rSection}
+
+\begin{rSection}{Summary}
+ I am currently pursuing my Bachelors in Computer Science and Engineering from SSN College of Engineering.
+ I am interested in networking, network security, cloud computing and data analytics and would like to pursue a career in the aforementioned fields. I would like to be associated with a progressive organization that would foster my creativity and give me an opportunity to add value to the organization by sharing my technical and collaborative skills.
+\end{rSection}
+
+%--------------------------------------------------------------------------------
+%    Projects And Seminars
+%-----------------------------------------------------------------------------------------------
+\begin{rSection}{Projects}
+{\bf Automated Home Security System} \hfill{\textbf{\textcolor{Mahogany}{Ongoing}}}\\
+This project uses both IoT and facial recognition using ML concepts.
+
+{\bf Colour Seperator using Arduino} \hfill{\textbf{\textcolor{Mahogany}{Ongoing}}}\\
+This project aims to determine whether a sheet of paper is used or unused thereby determining if it can be reused.\\
+\href{https://github.com/NielParekh/IoT/blob/master/Colour_Seperator.ino}{Colour Seperator Source Code}
+
+
+{\bf Temperature and Humidity Monitoring} \hfill{\textbf{\textcolor{Mahogany}{Ongoing}}} \\
+This project aims to moitor the temperture and humidity of a room using an arduino board along with a DHT 11/22 sensor and pushing that data into a cloud where the data will be analysed for patterns. \\
+\href{https://github.com/NielParekh/IoT/blob/master/Humity_and_temperature_with_Thingspeak.ino}{Temperature and Humidity Monitoring Source Code}
+
+{\bf Hotel Management System} \hfill{\textbf{\textcolor{OliveGreen}{Completed-2019}}} \\
+This project aims to develop an application that mimics the role of a receptionist. Data structures were incorporated in the program. It is written in C. \\
+\href{https://github.com/NielParekh/Hotel-Management}{Hotel Management Source Code}
+
+
+
+{\bf Hospital Management System} \hfill{\textbf{\textcolor{OliveGreen}{Completed-2019}}}\\
+This projects aims to simulate the real time functioning of a hospital. It is written in Java.\\
+\href{https://github.com/NielParekh/Hospital-Management}{Hospital Management Source Code}\\
+
+\end{rSection}
+\newpage
+\begin{rSection}{Courses}
+{\bf Ethical Hacking From Scratch } \hfill{\textbf{\textcolor{Mahogany}{Ongoing}}} \\
+Udemy.
+
+{\bf Machine Learning A-Z™: Hands-On Python and R In Data Science } \hfill{\textbf{\textcolor{OliveGreen}{Completed}}} \\
+Udemy.\\
+\href{https://github.com/NielParekh/Certificates/blob/master/Machine_Learning_A-Z.pdf}{Course Certificate}
+
+{\bf Machine Learning by Stanford University } \hfill{\textbf{\textcolor{OliveGreen}{Completed}}} \\
+Coursera. \\
+\href{https://github.com/NielParekh/Certificates/blob/master/Machine_Learning_Stanford.pdf}{Course Certificate}
+
+{\bf Explore ML (beginner)} 
+\hfill{\textbf{\textcolor{OliveGreen}{Completed}}} \\
+Google. 
+
+{\bf Blockchain Workshop} 
+\hfill{\textbf{\textcolor{OliveGreen}{Completed}}} \\
+ACM India. 
+
+
+\end{rSection}
+
+\begin{rSection}{Work Experience}
+{\bf Internship at Siqsess Technologies } \hfill{\textbf{{Oct-Nov'2019}}} \\
+Worked on software development for Arduino boards, sensors (ultrasonic, vibration, light intensity, sound, vibrational etc) and basic display elements (2x16 LCD, 8 segment display and a 16x16 LCD). Was also exposed to other boards like nodeMCU (Wi-Fi) and HM-10 (Bluetooth). Worked with high precision stepper motors and controlling them with Arduino code. Was also exposed to web page design and controlling Arduino boards using a HTML page and then went on to learn to control the Arduino using an app made using visual studios. Lastly,  connected the Arduino to the thingspeak cloud using the nodeMCU and pushed data into the cloud and extracted data from it. \\
+\href{https://github.com/NielParekh/Work-Experience/blob/master/Niel_Siqsess_Certificate.pdf}{Internship Certificate}\\
+
+
+
+\end{rSection}
+
+
+
+\begin{rSection}{Programming Skills}
+\begin{itemize}
+    \item C
+    \item C++
+    \item Java
+    \item Python
+    \item SQL
+    \item C++ for Arduino
+\end{itemize}
+
+\end{rSection}
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Extra Curricular} 
+{\bf National Service Scheme}\\
+Cleaning the college campus\\
+De-silting water bodies in Chennai\\
+
+{\bf Completed a 4 year course on spirituality conducted by Shrimad Rajchandra Mission Dharampur}\\
+{Volunteered in tree plantation drives and blood donation camps}\\
+{Relief work during the Chennai floods}\\
+{Participated in various welfare programs under SRLC }
+
+
+
+{\bf Won several prizes at inter school and college  Cultural Events, Debates and MUN's}\\
+
+
+{\bf Won several prizes at science fairs and exhibitions}\\
+
+{\bf Involved in the organization of various school and college events}\\
+{Reverberations(Inter-school culturals)}\hfill {Event head}\\
+{SSN MUN 2019} \hfill {General Administrator}
+
+
+\end{rSection}
+\end{document}
