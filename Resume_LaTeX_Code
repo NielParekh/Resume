@@ -57,7 +57,7 @@
 {\bf Automated Home Security System} \hfill{\textbf{\textcolor{Mahogany}{Ongoing}}}\\
 This project uses both IoT and facial recognition using ML concepts.
 
-{\bf Colour Seperator using Arduino} \hfill{\textbf{\textcolor{Mahogany}{Ongoing}}}\\
+{\bf Colour Seperator using Arduino} \hfill{\textbf{\textcolor{OliveGreen}{Completed-2020}}}\\
 This project aims to determine whether a sheet of paper is used or unused thereby determining if it can be reused.\\
 \href{https://github.com/NielParekh/IoT/blob/master/Colour_Seperator.ino}{Colour Seperator Source Code}
 
@@ -79,21 +79,22 @@ This projects aims to simulate the real time functioning of a hospital. It is wr
 \end{rSection}
 \newpage
 \begin{rSection}{Courses}
+{\bf AWS Fundamentals: Going Cloud-Native } \hfill{\textbf{\textcolor{Mahogany}{Ongoing}}} \\
+Coursera.\\
+{\bf Python for Everybody Specialization with Honours  (set of 5 courses)} \hfill{\textbf{\textcolor{OliveGreen}{Completed}}}\\
+Coursera.\\
+\href{https://github.com/NielParekh/Certificates/tree/master/Python%20for%20Everybody%20Specialization}{Course Certificate}\\
 {\bf Ethical Hacking From Scratch } \hfill{\textbf{\textcolor{Mahogany}{Ongoing}}} \\
-Udemy.
-
+Udemy.\\
 {\bf Machine Learning A-Z™: Hands-On Python and R In Data Science } \hfill{\textbf{\textcolor{OliveGreen}{Completed}}} \\
 Udemy.\\
-\href{https://github.com/NielParekh/Certificates/blob/master/Machine_Learning_A-Z.pdf}{Course Certificate}
-
+\href{https://github.com/NielParekh/Certificates/blob/master/Machine_Learning_A-Z.pdf}{Course Certificate}\\
 {\bf Machine Learning by Stanford University } \hfill{\textbf{\textcolor{OliveGreen}{Completed}}} \\
 Coursera. \\
-\href{https://github.com/NielParekh/Certificates/blob/master/Machine_Learning_Stanford.pdf}{Course Certificate}
-
+\href{https://github.com/NielParekh/Certificates/blob/master/Machine_Learning_Stanford.pdf}{Course Certificate}\\
 {\bf Explore ML (beginner)} 
 \hfill{\textbf{\textcolor{OliveGreen}{Completed}}} \\
-Google. 
-
+Google. \\
 {\bf Blockchain Workshop} 
 \hfill{\textbf{\textcolor{OliveGreen}{Completed}}} \\
 ACM India. 
@@ -105,9 +106,6 @@ ACM India.
 {\bf Internship at Siqsess Technologies } \hfill{\textbf{{Oct-Nov'2019}}} \\
 Worked on software development for Arduino boards, sensors (ultrasonic, vibration, light intensity, sound, vibrational etc) and basic display elements (2x16 LCD, 8 segment display and a 16x16 LCD). Was also exposed to other boards like nodeMCU (Wi-Fi) and HM-10 (Bluetooth). Worked with high precision stepper motors and controlling them with Arduino code. Was also exposed to web page design and controlling Arduino boards using a HTML page and then went on to learn to control the Arduino using an app made using visual studios. Lastly,  connected the Arduino to the thingspeak cloud using the nodeMCU and pushed data into the cloud and extracted data from it. \\
 \href{https://github.com/NielParekh/Work-Experience/blob/master/Niel_Siqsess_Certificate.pdf}{Internship Certificate}\\
-
-
-
 \end{rSection}
 
 
@@ -119,7 +117,6 @@ Worked on software development for Arduino boards, sensors (ultrasonic, vibratio
     \item Java
     \item Python
     \item SQL
-    \item C++ for Arduino
 \end{itemize}
 
 \end{rSection}
@@ -129,16 +126,12 @@ Worked on software development for Arduino boards, sensors (ultrasonic, vibratio
 {\bf National Service Scheme}\\
 Cleaning the college campus\\
 De-silting water bodies in Chennai\\
-
 {\bf Completed a 4 year course on spirituality conducted by Shrimad Rajchandra Mission Dharampur}\\
 {Volunteered in tree plantation drives and blood donation camps}\\
 {Relief work during the Chennai floods}\\
-{Participated in various welfare programs under SRLC }
-
-
+{Participated in various welfare programs under SRLC }\\
 
 {\bf Won several prizes at inter school and college  Cultural Events, Debates and MUN's}\\
-
 
 {\bf Won several prizes at science fairs and exhibitions}\\
 
