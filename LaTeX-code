@@ -1,0 +1,103 @@
+%Resume of Niel Parekh
+\documentclass{resume} 
+
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=blue,
+}
+
+%For More colours
+\usepackage[dvipsnames]{xcolor}
+\usepackage{xspace}
+
+\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} % Document margins
+\newcommand\nth{\textsuperscript{th}\xspace}
+\newcommand\nd{\textsuperscript{nd}\xspace}
+\newcommand\rd{\textsuperscript{rd}\xspace}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Niel Parekh} % Your name
+\address{niel.parekh24@gmail.com \\ \href{https://www.linkedin.com/in/niel-parekh-176674170/}{LinkedIn} \\ \href{https://github.com/NielParekh}{GitHub}} % Your phone number and email
+\begin{document}
+\begin{center}
+\end{center}
+
+\begin{rSection}{Education}
+{\bf SSN College of Engineering, Chennai} \hfill {\em August 2018 - Present} 
+\\ Bachelor of Engineering, Computer Science\hfill \textcolor{blue}{\em Current GPA: 9.10(Upto Semester IV)}\\
+{\bf Padma Seshadri Bala Bhavan Senior Secondary School, Chennai} \hfill {\em 2017 - 2018}\\
+12\nth Standard \hfill \textcolor{blue}{\em 95.0\%}\\
+{\bf Padma Seshadri Bala Bhavan Senior Secondary School, Chennai} \hfill {\em 2015 - 2016}\\
+10\nth Standard \hfill \textcolor{blue}{\em 10.0 CGPA }
+\end{rSection}
+
+\begin{rSection}{Technical Skills}
+    \begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+        Languages &  C, C++, Python, Java, SQL, HTML, CSS \\
+        Software, Libraries \& Other Tools & NumPy, Pandas, Keras, Boto3, Twillio, Elasticsearch, LaTeX 
+        
+    \end{tabular}
+\end{rSection}
+
+\begin{rSection}{Work Experience}
+{\bf Internship at Siqsess Technologies } 
+\hfill{\textbf{\textcolor{OliveGreen}{Oct-Nov'19}}} \\
+Worked on software development for Arduino boards integrated with various sensors and basic display elements (2x16 LCD, 8 segment display and a 16x16 LCD). Was also exposed to other boards like nodeMCU (Wi-Fi) and HM-10 (Bluetooth). Was also exposed to web page design and controlling Arduino boards using a HTML page and then went on to learn to control the Arduino using an app made using visual studios. Lastly,  connected the Arduino to the thingspeak cloud using the nodeMCU and pushed data into the cloud and extracted data from it.\\
+{\bf Internship at Prosimo} 
+\hfill{\textbf{\textcolor{OliveGreen}{Jun'20 - Aug'20}}} \\
+The primary goal of this internship is to build these data visualizations and dashboards in Kibana using data injected into Elasticsearch. There were two stages of work involved - data injection and data visualization. In the data injection stage, I worked on a script in python to read the data from cloud storage like AWS S3 using Boto3, manipulate the data to be compatible to store as Elasticsearch documents and insert it into elastic search database. In the data visualization phase, I built Kibana visualizations, dashboards. The 3 main dashboards were - Testbed Infrastructure visibitity, Test suite and Testcase Visibilty and User access statistics of web applications.
+\end{rSection}
+\begin{rSection}{Projects}
+{\bf Mask Detecting System} \hfill{\textbf{\textcolor{Orange}{Ongoing}}}\\
+Uses concepts of Computer Vision and convolutional neural networks to detect whether a person is wearing a mask or not from a photograph.\\
+{\bf Autonomous car driving system} \hfill{\textbf{\textcolor{Orange}{Ongoing}}}\\
+Uses YOLO algorithm for categorizing images and taking respective decisions mimicing the role of a driver.\\
+{\bf Automated Home Security System} \hfill{\textbf{\textcolor{Orange}{Ongoing}}}\\
+Uses raspberry Pi to take the photo of an intruder and a neural network identifies the person immediately notifying the house owner via SMS and email using the twillio API.\\
+{\bf Used Paper Separator} \hfill{\textbf{\textcolor{OliveGreen}{Completed}}}\\
+Uses Arduino to determine a sheet of paper is used or not for recycling purposes.\\
+{\bf Hotel Management System} \hfill{\textbf{\textcolor{OliveGreen}{Completed}}} \\
+Uses the power of Data Structures in C to mimic the role of a hotel receptionist. \\
+{\bf Hospital Management System} \hfill{\textbf{\textcolor{OliveGreen}{Completed}}}\\
+Uses several OOP's concepts of Java to mimic the role of a hospital administrator.
+
+\end{rSection}
+\begin{rSection}{Courses}
+{\bf Data Analytics with Python} \hfill{\textbf{\textcolor{Orange}{Ongoing}}}\\
+NPTEL\\
+{\bf Social Networks} \hfill{\textbf{\textcolor{OliveGreen}{Completed}}}\\
+NPTEL\\
+{\bf Deep Learning} \hfill{\textbf{\textcolor{OliveGreen}{Completed}}}\\
+NPTEL\\
+{\bf Business Analytics Specialization  (set of 5 courses)} \hfill{\textbf{\textcolor{Orange}{Ongoing}}}\\
+Wharton\\
+{\bf AWS Fundamentals Specialization  (set of 4 courses)} \hfill{\textbf{\textcolor{OliveGreen}{Completed}}}\\
+AWS\\
+{\bf Python for Everybody Specialization with Honours  (set of 5 courses)} \hfill{\textbf{\textcolor{OliveGreen}{Completed}}}\\
+University of Michigan\\
+{\bf Machine Learning A-Z™: Hands-On Python and R In Data Science } \hfill{\textbf{\textcolor{OliveGreen}{Completed}}} \\
+Udemy.\\
+{\bf Machine Learning by Stanford University } \hfill{\textbf{\textcolor{OliveGreen}{Completed}}} \\
+Coursera. \\
+{\bf Explore ML (beginner)} 
+\hfill{\textbf{\textcolor{OliveGreen}{Completed}}} \\
+Google. 
+\end{rSection}
+\begin{rSection}{Extra Curricular} 
+{\bf National Service Scheme}\\
+Cleaning the college campus\\
+De-silting water bodies in Chennai
+
+{\bf Completed a 4 year course on spirituality conducted by Shrimad Rajchandra Mission Dharampur}\\
+{Volunteered in tree plantation drives and blood donation camps}\\
+{Relief work during the Chennai floods}\\
+{Participated in various welfare programs under SRLC }
+
+{\bf Won several prizes and organized several inter school and college cultural fests, debates and MUN's}
+\end{rSection}
+\end{document}
+
+
