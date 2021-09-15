@@ -27,7 +27,7 @@
 
 \begin{rSection}{Education}
 {\bf SSN College of Engineering, Chennai} \hfill {\em August 2018 - Present} 
-\\ Bachelor of Engineering, Computer Science\hfill \textcolor{blue}{\em Current GPA: 8.87(Upto Semester VI)}\\
+\\ Bachelor of Engineering, Computer Science\hfill \textcolor{blue}{\em Current GPA: 8.93(Upto Semester VI)}\\
 {\bf Padma Seshadri Bala Bhavan Senior Secondary School, Chennai} \hfill {\em 2017 - 2018}\\
 12\nth Standard \hfill \textcolor{blue}{\em 95.0\%}\\
 {\bf Padma Seshadri Bala Bhavan Senior Secondary School, Chennai} \hfill {\em 2015 - 2016}\\
@@ -37,16 +37,16 @@
 \begin{rSection}{Technical Skills}
     \begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
         Languages &  C, C++, Python, Java, SQL, HTML, CSS \\
-        Software, Libraries \& Other Tools & NumPy, Pandas, Keras, Boto3,  Elasticsearch, LaTeX, Flask
+        Software, Libraries \& Other Tools & NumPy, Pandas, Boto3,  Elasticsearch, LaTeX, Flask
         
     \end{tabular}
 \end{rSection}
 \begin{rSection}{Relevant Coursework}
-Algebra and Calculus, Discrete mathematics, Data structures, Programming in Python, Probability and Statistics, Operating systems, Database management systems, Design and Analysis of Algorithms, Artificial intelligence, Machine Learning, Foundations of Data Science, Deep Learning, Computer Netowrks, Internet Programming, Social Networks, AWS fundamentals, Python and R in Data Science 
+Algebra and Calculus, Discrete mathematics, Data structures, Programming in Python, Probability and Statistics, Operating systems, Database management systems, Design and Analysis of Algorithms, Artificial intelligence, Machine Learning, Foundations of Data Science, Deep Learning, Computer Netowrks, Internet Programming, Social Networks, AWS fundamentals, Python and R in Data Science, Data Analytics using Python 
 \end{rSection}
 
 \begin{rSection}{Work Experience}
-{\bf Internship at Siqsess Technologies } 
+{\bf Intern at Siqsess Technologies } 
 \hfill{\textbf{\textcolor{OliveGreen}{Oct-Nov'19}}} \\
 Worked on software development for Arduino boards integrated with various sensors and basic display elements, also worked with other boards like nodeMCU (Wi-Fi) and HM-10 (Bluetooth). Learnt how to control the Arduino using a HTML page and an android app made using Visual Studios. Lastly,  connected the Arduino to the thingspeak to push and pull data from the cloud.\\
 {\bf Data Science Intern at Prosimo} 
